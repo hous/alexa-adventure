@@ -73,7 +73,7 @@ Game.prototype.intentHandlers = {
 		handleQuitIntent(intent, session, response);
 	},
 	HelpIntent: function (intent, session, response) {
-		handleHelpIntent(session, response);
+		handleHelpIntent(intent, session, response);
 	}
 };
 

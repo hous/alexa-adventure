@@ -15,8 +15,6 @@ HelpIntent what can you do
 HelpIntent what do you do
 HelpIntent how do I use you
 HelpIntent how can I use you
-HelpIntent what can you tell me
-HelpIntent what is this
 HelpIntent how do I play
 HelpIntent how does this work
 
