@@ -1,0 +1,36 @@
+GameStartIntent play future
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
+HelpIntent what is this
+HelpIntent how do I play
+HelpIntent how does this work
+
+GameActionIntent tell Siren to {get out of bed|Command}
+GameActionIntent tell Siren to {jump down from the bed|Command}
+GameActionIntent tell Siren to {jump down|Command}
+
+QuitIntent stop
+QuitIntent Alexa stop
+QuitIntent quit
+QuitIntent Alexa quit
+QuitIntent exit
+QuitIntent Alexa exit
+
+SceneZeroIntent good morning
+SceneZeroIntent good morning Siren
+

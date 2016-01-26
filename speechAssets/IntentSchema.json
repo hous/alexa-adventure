@@ -1,0 +1,33 @@
+{
+	"intents": [
+		{
+			"intent": "SessionStartIntent",
+			"slots": []
+		},
+		{
+			"intent": "GameStartIntent",
+			"slots": []
+		},
+		{
+			"intent": "HelpIntent",
+			"slots": []
+		},
+		{
+			"intent": "QuitIntent",
+			"slots": []
+		},
+		{
+			"intent": "GameActionIntent",
+			"slots":[
+				{
+					"name": "Command",
+					"type": "LITERAL"
+				}
+			]
+		},
+		{
+			"intent": "SceneZeroIntent",
+			"slots":[]
+		}
+	]
+}

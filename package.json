@@ -1,0 +1,23 @@
+{
+  "name": "alexa-cat-facts",
+  "version": "1.0.0",
+  "description": "Alexa Skill to hear cat facts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Housman <adam@adamhousman.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.1.4",
+    "del": "^1.1.0",
+    "gulp": "^3.9.0",
+    "gulp-install": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-token-replace": "^1.0.2",
+    "gulp-util": "^3.0.6",
+    "gulp-zip": "^3.0.2",
+    "run-sequence": "^1.0.2",
+    "yargs": "^3.15.0"
+  }
+}

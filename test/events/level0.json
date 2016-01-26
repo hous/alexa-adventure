@@ -1,0 +1,31 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"application": {
+			"applicationId": "amzn1.echo-sdk-ams.app.0387a4a2-38a1-453d-bd1d-797ca9f3be27"
+		},
+		"sessionId": "session1234",
+			"attributes": {},
+		"user": {
+			"userId": null
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "request5678",
+		"intent": {
+			"name": "GameActionIntent",
+				"slots": {
+				"Look": {
+					"name": "Look",
+					"value": "coffin"
+				}
+			}
+		}
+	}
+}
+
+
+
+
