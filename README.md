@@ -6,4 +6,8 @@ IntentSchema and SampleUtterances (speechAssets) must be updated in the Alexa co
 TODO:
 - [ ] TellWithCard? Can you put images in cards? Should be secondary and not needed to play the game.
 - [ ] If intent doesn't match the scene, disregard it
-- [ ] Can wait-times be increased before process is exited, or can that not be changed?
+- [X] Can wait-times be increased before process is exited, or can that not be changed? No
+
+Findings:
+- Alexa'a pacing is difficult to control, easy to lose track of the narrative. Would keep attention better by playing pre-recorded clips from a narrator.
+- In a game setting, user needs time to think about options, but there is an un-changeable time limit in waiting for responses, after which the game is exited automatically.
