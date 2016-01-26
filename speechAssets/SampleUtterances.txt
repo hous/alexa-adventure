@@ -1,4 +1,4 @@
-GameStartIntent play future
+GameStartIntent let's begin
 
 HelpIntent help
 HelpIntent help me

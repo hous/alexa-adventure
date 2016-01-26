@@ -10,8 +10,8 @@ module.exports = {
 			"The protagonist of Future is an young girl named Siren, and you play the role of her imaginary friend, Jason. " +
 			"Depending on the situation, you can tell Siren to do different things to interact with the world. " +
 			"For example, you can say things like 'Tell Siren to stand up.' or 'Tell Siren to open the door.' " +
-			"If you're ready to play Future, please say 'play future'. ",
-		reprompt : "If you're ready to play Future, please say 'play future'. "
+			"If you're ready to play Future, please say let's begin. ",
+		reprompt : "If you're ready to play Future, please say 'let's begin'. "
 	},
 	scenes : [
 		{
